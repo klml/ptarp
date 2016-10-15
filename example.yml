@@ -1,0 +1,15 @@
+--- 
+active: true
+origin: alice@example.org
+destination: bob@example.org
+sender: alice
+recipient: bob
+author: bob
+currentHolder: carol
+currentLocation: bob@example.org
+contentDescription: "chocolate cake"
+contentSize: "30x30x10"
+contentWeight: 10
+contentClass: warm food
+priority: 9
+log: ""
