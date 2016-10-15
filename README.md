@@ -44,3 +44,8 @@ This does not (yet) support:
 * trusting: could be useful to request trust
 * routing: every hop shold do its own routing
 * payment: another layer
+
+## Similar
+
+* [physicalinternetinitiative.org](http://physicalinternetinitiative.org) a open initiative
+* my own approach [Netzlogistik](http://regionales-wirtschaften-wiki.de/Netzlogistik) (in german)
