@@ -28,10 +28,13 @@ Fields of a ptarp document:
 * priority: adress its quality of service from 1 to 100
 * log: flat dump of hops
 
-
 ## Location
 
-locations should by defined by an URI
+Locations can be defined by:
+* common and __plain old geography address__ (e.g. 'Bob Doe, 123 Fake Street, 12345 Springsfield')
+* __geolocation__ with coordinates, are difficult to translate to humans and for routing.
+
+Or use an __URI__ ('bob@example.com') with an extra TXT DNS Record with a geography adress or a geolocation.
 
 
 ## Missing features
