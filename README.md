@@ -41,8 +41,7 @@ Or use an __URI__ ('bob@example.com') with an extra TXT DNS Record with a geogra
 
 This does not (yet) support:
 
-* geolocation: use old-plain-adress with postal codes, or lets create a finer and dynamical domain based postal code system 
-* versioning of travellog: like IP, I dont care where my packet was, only where it is, and where to go. Trackin and Tracing should be on another layer. 
+* versioning of travellog: like IP, I dont care where my packet was, only where it is, and where to go. Tracking and Tracing should be on another layer. 
 * time to live? could be useful to avoid ghost shipments
 * trusting: could be useful to request trust
 * routing: every hop shold do its own routing
