@@ -29,12 +29,12 @@ Fields of a ptarp document:
 * log: flat dump of hops
 
 
-#### Location
+## Location
 
 locations should by defined by an URI
 
 
-### Missing features
+## Missing features
 
 This does not (yet) support:
 
@@ -44,5 +44,3 @@ This does not (yet) support:
 * trusting: could be useful to request trust
 * routing: every hop shold do its own routing
 * payment: another layer
-
-
