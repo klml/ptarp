@@ -49,5 +49,4 @@ This does not (yet) support:
 
 ## Similar
 
-* [physicalinternetinitiative.org](http://physicalinternetinitiative.org) a open initiative
 * my own approach [Netzlogistik](http://regionales-wirtschaften-wiki.de/Netzlogistik) (in german)
