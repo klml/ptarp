@@ -43,6 +43,8 @@ $ tracepath -4b netcologne.de
 I want to hand over my parcel to DHL, gets transported by UPS and delivered from my pizza delivery guy,  brings me my lunch.
 
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DPD_Pickup_Paketshop.jpg/320px-DPD_Pickup_Paketshop.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Right.svg/50px-Right.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Samoch%C3%B3d_kuriera_holenderskiego_GLS_w_Tomaszowie_Mazowieckim.jpg/320px-Samoch%C3%B3d_kuriera_holenderskiego_GLS_w_Tomaszowie_Mazowieckim.jpg)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Right.svg/50px-Right.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DPD_Kontrollraum-und-Linemaster.jpg/320px-DPD_Kontrollraum-und-Linemaster.jpg) 
@@ -56,6 +58,8 @@ I want to hand over my parcel to DHL, gets transported by UPS and delivered from
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Parcels_crowded_near_the_gate_of_one_community_in_Suzhou-20201107.jpg/320px-Parcels_crowded_near_the_gate_of_one_community_in_Suzhou-20201107.jpg)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Right.svg/50px-Right.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Delivery_vehicle_in_Peru.jpg/300px-Delivery_vehicle_in_Peru.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Right.svg/50px-Right.svg.png)
+![](https://img.br.de/5a5762b6-027e-4953-9087-480196a23644.jpeg?q=85&rect=0%2C371%2C3809%2C2145&w=420)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Right.svg/50px-Right.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LongJohn11b.jpg/320px-LongJohn11b.jpg)
 
